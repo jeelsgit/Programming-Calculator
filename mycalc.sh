@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Project: Programming Calculator
-# Student Name: Jeel Mitesh Tandel
+# Name: Jeel Mitesh Tandel
+# Contact: tand0019@algonquinlive.com
 # Script Name: mycalc.sh
 # Date: 09/01/2024
 # Description: This script performs basic addition and subtraction.
